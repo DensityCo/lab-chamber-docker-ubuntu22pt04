@@ -1,0 +1,1 @@
+docker build -t density/chamber-ubuntu2204 .
