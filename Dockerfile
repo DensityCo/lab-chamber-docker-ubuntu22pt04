@@ -18,6 +18,7 @@ RUN sed -i 's/main$/main universe/' /etc/apt/sources.list \
     build-essential \
     bash-completion \
     git \
+    ssh \
     python3 \
     python3-dev \
     python3-pip \
